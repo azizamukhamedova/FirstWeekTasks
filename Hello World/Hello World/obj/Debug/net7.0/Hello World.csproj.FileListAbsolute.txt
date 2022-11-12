@@ -1,0 +1,26 @@
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/bin/Debug/net7.0/appsettings.Development.json
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/bin/Debug/net7.0/appsettings.json
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/bin/Debug/net7.0/Hello World
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/bin/Debug/net7.0/Hello World.deps.json
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/bin/Debug/net7.0/Hello World.runtimeconfig.json
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/bin/Debug/net7.0/Hello World.dll
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/bin/Debug/net7.0/Hello World.pdb
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/Hello World.csproj.AssemblyReference.cache
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/Hello World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/Hello World.AssemblyInfoInputs.cache
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/Hello World.AssemblyInfo.cs
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/Hello World.csproj.CoreCompileInputs.cache
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/Hello World.MvcApplicationPartsAssemblyInfo.cache
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/staticwebassets/msbuild.Hello World.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/staticwebassets/msbuild.build.Hello World.props
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Hello World.props
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Hello World.props
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/staticwebassets.build.json
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/staticwebassets.development.json
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/scopedcss/bundle/Hello World.styles.css
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/Hello World.dll
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/refint/Hello World.dll
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/Hello World.pdb
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/Hello World.genruntimeconfig.cache
+/Users/azizamuxamedova/Desktop/programming/dotnet/FirstWeekTasks/Hello World/Hello World/obj/Debug/net7.0/ref/Hello World.dll
